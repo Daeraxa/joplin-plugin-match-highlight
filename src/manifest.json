@@ -6,7 +6,7 @@
 	"name": "Highlight Matching",
 	"description": "Marks words that match the highlighted selection",
 	"author": "Daeraxa",
-	"homepage_url": "discoursetopic",
+	"homepage_url": "https://discourse.joplinapp.org/t/highlight-matching-plugin/23747",
 	"repository_url": "https://github.com/Daeraxa/joplin-plugin-match-highlight",
 	"keywords": ["highlight","match-highlight","highlighting","duplicate","matching","match"]
 }
